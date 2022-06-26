@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-![image](https://user-images.githubusercontent.com/38435661/175779001-9f2bb5b2-c755-4ce0-82a0-e07e9bb83e55.png)
+
+![Sreenshot](https://user-images.githubusercontent.com/38435661/175811497-a3061e2b-adc0-4e44-bff4-19da6a3ad525.jpg)
+
 
 💬 Ask me about anything, I am happy to help
 😄 Pronouns: Coder, Leader and Kind Hearted
