@@ -12,9 +12,9 @@
 
 Hi, I'm a software developer with a passion for creating innovative solutions. I am currently working as Conaultant for Reliance Industries
 
-#Java Backend Developer
+# Java Backend Developer
 
-Strong experience in:
+# Strong Experience in
 
 Java and Java-based web technologies (Spring, Hibernate, JPA)
 
@@ -28,7 +28,7 @@ Build and deployment tools (Maven, Jenkins)
 
 Cloud platforms (AWS, GCP)
 
-Knowledge of:
+# Knowledge Of
 
 Security principles and implementation
 
