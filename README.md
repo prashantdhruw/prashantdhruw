@@ -19,16 +19,17 @@ Hi, I'm a software developer with a passion for creating innovative solutions.
 
 I have experience in the following technologies:
 
-- Java ![Java](https://img.shields.io/badge/-Java-009688?style=flat&logo=java)
-- Spring Boot ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring)
-- MongoDB ![MongoDB](https://img.shields.io/badge/-MongoDB-13AA52?style=flat&logo=mongodb)
-- Oracle SQL ![Oracle SQL](https://img.shields.io/badge/-Oracle%20SQL-0077C5?style=flat&logo=oracle)
-- REST API ![REST API](https://img.shields.io/badge/-REST%20API-000000?style=flat&logo=postman)
-- Microservices ![Microservices](https://img.shields.io/badge/-Microservices-blue?style=flat&logo=docker)
-- Putty ![Putty](https://img.shields.io/badge/-Putty-0077C5?style=flat&logo=putty)
-- WinSCP ![WinSCP](https://img.shields.io/badge/-WinSCP-1C1C1E?style=flat&logo=winscp)
+- Java ![Java](https://img.shields.io/badge/Java-1.8+-007396?style=flat&logo=java)
+- Spring Boot ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.4.0-6DB33F?style=flat&logo=spring)
+- MongoDB ![MongoDB](https://img.shields.io/badge/MongoDB-4.4-13AA52?style=flat&logo=mongodb)
+- Oracle SQL ![Oracle SQL](https://img.shields.io/badge/Oracle%20SQL-12c-0077C5?style=flat&logo=oracle)
+- REST API ![REST API](https://img.shields.io/badge/REST%20API-OpenAPI%202.0-000000?style=flat&logo=postman)
+- Microservices ![Microservices](https://img.shields.io/badge/Microservices-Architecture-blue?style=flat&logo=docker)
+- Putty ![Putty](https://img.shields.io/badge/Putty-0.73-0077C5?style=flat&logo=putty)
+- WinSCP ![WinSCP](https://img.shields.io/badge/WinSCP-5.17.7-1C1C1E?style=flat&logo=winscp)
 
 [![Visitor Count](https://profile-counter.glitch.me/prashantdhruw/count.svg)](https://github.com/prashantdhruw)
+
 
 
 
