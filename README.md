@@ -13,19 +13,22 @@
 😄 Pronouns: Coder, Leader and Kind Hearted
 💡 Occasionaly I do participate in Hackathons
 
-# Your Name
+# Prashant Dhruw
 
-Hi, I'm a software developer with a passion for creating innovative solutions. I have experience in [insert your skills/technologies].
+Hi, I'm a software developer with a passion for creating innovative solutions.
 
-## Projects
+I have experience in the following technologies:
 
-- [Project 1 Name](link-to-github-repo) - Brief description of the project
-- [Project 2 Name](link-to-github-repo) - Brief description of the project
-- [Project 3 Name](link-to-github-repo) - Brief description of the project
-
-## Contact
-
-You can reach out to me at [email address]. I'm also available on [Social Media Platform (e.g. LinkedIn, Twitter, etc.)](link-to-profile).
+- Java ![Java](https://img.shields.io/badge/-Java-009688?style=flat&logo=java)
+- Spring Boot ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring)
+- MongoDB ![MongoDB](https://img.shields.io/badge/-MongoDB-13AA52?style=flat&logo=mongodb)
+- Oracle SQL ![Oracle SQL](https://img.shields.io/badge/-Oracle%20SQL-0077C5?style=flat&logo=oracle)
+- REST API ![REST API](https://img.shields.io/badge/-REST%20API-000000?style=flat&logo=postman)
+- Microservices ![Microservices](https://img.shields.io/badge/-Microservices-blue?style=flat&logo=docker)
+- Putty ![Putty](https://img.shields.io/badge/-Putty-0077C5?style=flat&logo=putty)
+- WinSCP ![WinSCP](https://img.shields.io/badge/-WinSCP-1C1C1E?style=flat&logo=winscp)
 
 [![Visitor Count](https://profile-counter.glitch.me/prashantdhruw/count.svg)](https://github.com/prashantdhruw)
+
+
 
