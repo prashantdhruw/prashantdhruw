@@ -4,29 +4,35 @@
 
 ![Sreenshot](https://user-images.githubusercontent.com/38435661/175811577-72bb3654-5cdc-44b0-a970-a8cef53a8bd2.jpg)
 
-![image](https://user-images.githubusercontent.com/38435661/175817019-1f8caa25-7999-4843-a94a-3e2cd81ee01c.png)
-
-
-
-
 💬 Ask me about anything, I am happy to help
 😄 Pronouns: Coder, Leader and Kind Hearted
 💡 Occasionaly I do participate in Hackathons
 
 # Prashant Dhruw
 
-Hi, I'm a software developer with a passion for creating innovative solutions.
+Hi, I'm a software developer with a passion for creating innovative solutions. I am currently working as Conaultant for Reliance Industries
 
-I have experience in the following technologies:
-
-- Java ![Java](https://img.shields.io/badge/Java-1.8+-007396?style=flat&logo=java)
-- Spring Boot ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.4.0-6DB33F?style=flat&logo=spring)
-- MongoDB ![MongoDB](https://img.shields.io/badge/MongoDB-4.4-13AA52?style=flat&logo=mongodb)
-- Oracle SQL ![Oracle SQL](https://img.shields.io/badge/Oracle%20SQL-12c-0077C5?style=flat&logo=oracle)
-- REST API ![REST API](https://img.shields.io/badge/REST%20API-OpenAPI%202.0-000000?style=flat&logo=postman)
-- Microservices ![Microservices](https://img.shields.io/badge/Microservices-Architecture-blue?style=flat&logo=docker)
-- Putty ![Putty](https://img.shields.io/badge/Putty-0.73-0077C5?style=flat&logo=putty)
-- WinSCP ![WinSCP](https://img.shields.io/badge/WinSCP-5.17.7-1C1C1E?style=flat&logo=winscp)
+Strong experience in Java and Java-based web technologies such as Spring, Hibernate, and JPA
+Proficient in developing RESTful APIs and Microservices architecture
+Experience with SQL and NoSQL databases such as MySQL, PostgreSQL, and MongoDB
+Familiarity with testing frameworks such as JUnit and Mockito
+Knowledge of build and deployment tools like Maven and Jenkins
+Experience with cloud platforms such as Amazon Web Services (AWS) or Google Cloud Platform (GCP)
+Good understanding of security principles and experience with implementing security measures
+Experience with version control systems such as Git
+Excellent problem-solving and analytical skills
+Ability to work independently and as part of a team
+Strong communication and interpersonal skills.
+Ability to troubleshoot and debug complex issues
+Familiarity with containerization technologies such as Docker
+Knowledge of message brokers such as RabbitMQ or Apache Kafka
+Experience with distributed systems and scalable solutions
+Exposure to agile software development methodologies such as Scrum or Kanban
+Understanding of caching solutions such as Redis or Memcached
+Experience with continuous integration and delivery (CI/CD) pipelines
+Good understanding of scalable design patterns
+Familiarity with front-end technologies such as HTML, CSS, JavaScript, and AngularJS
+Experience with performance optimization and profiling techniques.
 
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prashantdhruw&show_icons=true&theme=default)](https://github.com/prashantdhruw)
