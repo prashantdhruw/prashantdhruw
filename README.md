@@ -12,27 +12,27 @@
 
 Hi, I'm a software developer with a passion for creating innovative solutions. I am currently working as Conaultant for Reliance Industries
 
-Strong experience in Java and Java-based web technologies such as Spring, Hibernate, and JPA
-Proficient in developing RESTful APIs and Microservices architecture
-Experience with SQL and NoSQL databases such as MySQL, PostgreSQL, and MongoDB
-Familiarity with testing frameworks such as JUnit and Mockito
-Knowledge of build and deployment tools like Maven and Jenkins
-Experience with cloud platforms such as Amazon Web Services (AWS) or Google Cloud Platform (GCP)
-Good understanding of security principles and experience with implementing security measures
-Experience with version control systems such as Git
-Excellent problem-solving and analytical skills
-Ability to work independently and as part of a team
-Strong communication and interpersonal skills.
-Ability to troubleshoot and debug complex issues
-Familiarity with containerization technologies such as Docker
-Knowledge of message brokers such as RabbitMQ or Apache Kafka
-Experience with distributed systems and scalable solutions
-Exposure to agile software development methodologies such as Scrum or Kanban
-Understanding of caching solutions such as Redis or Memcached
-Experience with continuous integration and delivery (CI/CD) pipelines
-Good understanding of scalable design patterns
-Familiarity with front-end technologies such as HTML, CSS, JavaScript, and AngularJS
-Experience with performance optimization and profiling techniques.
+Java Backend Developer
+Strong experience in:
+Java and Java-based web technologies (Spring, Hibernate, JPA)
+RESTful API and Microservices architecture
+SQL and NoSQL databases (MySQL, PostgreSQL, MongoDB)
+Testing frameworks (JUnit, Mockito)
+Build and deployment tools (Maven, Jenkins)
+Cloud platforms (AWS, GCP)
+Knowledge of:
+Security principles and implementation
+Version control systems (Git)
+Troubleshooting and debugging complex issues
+Containerization technologies (Docker)
+Message brokers (RabbitMQ, Apache Kafka)
+Distributed systems and scalable solutions
+Agile software development methodologies (Scrum, Kanban)
+Caching solutions (Redis, Memcached)
+CI/CD pipelines
+Scalable design patterns
+Front-end technologies (HTML, CSS, JavaScript, AngularJS)
+Performance optimization and profiling techniques.
 
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prashantdhruw&show_icons=true&theme=default)](https://github.com/prashantdhruw)
