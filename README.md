@@ -9,43 +9,43 @@ Hi, I'm a software developer with a passion for creating innovative solutions. I
 
 # Strong Experience in
 
-Java and Java-based web technologies (Spring, Hibernate, JPA)
+-Java and Java-based web technologies (Spring, Hibernate, JPA)
 
-RESTful API and Microservices architecture
+-RESTful API and Microservices architecture
 
-SQL and NoSQL databases (MySQL, PostgreSQL, MongoDB)
+-SQL and NoSQL databases (MySQL, PostgreSQL, MongoDB)
 
-Testing frameworks (JUnit, Mockito)
+-Testing frameworks (JUnit, Mockito)
 
-Build and deployment tools (Maven, Jenkins)
+-Build and deployment tools (Maven, Jenkins)
 
-Cloud platforms (AWS, GCP)
+-Cloud platforms (AWS, GCP)
 
 # Knowledge Of
 
-Security principles and implementation
+-Security principles and implementation
 
-Version control systems (Git)
+-Version control systems (Git)
 
-Troubleshooting and debugging complex issues
+-Troubleshooting and debugging complex issues
 
-Containerization technologies (Docker)
+-Containerization technologies (Docker)
 
-Message brokers (RabbitMQ, Apache Kafka)
+-Message brokers (RabbitMQ, Apache Kafka)
 
-Distributed systems and scalable solutions
+-Distributed systems and scalable solutions
 
-Agile software development methodologies (Scrum, Kanban)
+-Agile software development methodologies (Scrum, Kanban)
 
-Caching solutions (Redis, Memcached)
+-Caching solutions (Redis, Memcached)
 
-CI/CD pipelines
+-CI/CD pipelines
 
-Scalable design patterns
+-Scalable design patterns
 
-Front-end technologies (HTML, CSS, JavaScript, AngularJS)
+-Front-end technologies (HTML, CSS, JavaScript, AngularJS)
 
-Performance optimization and profiling techniques.
+-Performance optimization and profiling techniques.
 
 
 
