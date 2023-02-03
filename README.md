@@ -50,7 +50,7 @@ I absolutely love to dive into complex coding challenges and finding efficient a
 
 ## **Projects**
 
-***Microservices Architecture for Healthcare Platform***
+***Microservices Architecture for Healthcare Platform:***
 
 •  **Technology Stack:** Java, Spring Cloud, AWS, Docker, RabbitMQ
 
@@ -60,7 +60,7 @@ I absolutely love to dive into complex coding challenges and finding efficient a
 
 •  I implemented a messaging system using RabbitMQ to handle communication between microservices and ensure reliable data transfer. The messaging system acted as a buffer between microservices, allowing them to continue processing requests even if one or more services were unavailable.
 
-***Data Analytics Platform***
+***Data Analytics Platform:***
 
 •  **Technology Stack:** Java, Apache Spark, Apache Cassandra, AngularJS
 
@@ -70,7 +70,7 @@ I absolutely love to dive into complex coding challenges and finding efficient a
 
 •  I also implemented a RESTful API for data retrieval and visualization using AngularJS. The API allowed clients to retrieve data from the platform and display it in a variety of ways, such as charts, graphs, and tables.
 
-***Inventory Management System***
+***Inventory Management System:***
 
 •  **Technology Stack:** Java, Spring, Hibernate, MySQL
 
@@ -80,7 +80,7 @@ I absolutely love to dive into complex coding challenges and finding efficient a
 
 •  I also implemented a reporting module that generated various reports on inventory levels, product demand, and supply chain management. These reports provided valuable insights into the company's operations and helped them make informed decisions.
 
-***Payment Processing System***
+***Payment Processing System:***
 
 • **Technology Stack:** Java, Spring, Hibernate, React, AWS, AWS Lambda, AWS RDS
 
