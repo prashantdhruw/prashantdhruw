@@ -2,6 +2,7 @@
 
 Hi, I'm a software developer with a passion for creating innovative solutions. I am currently working as Conaultant for Reliance Industries.
 
+**Love to solve java problems in free time**
 
 ![Sreenshot](https://user-images.githubusercontent.com/38435661/175811577-72bb3654-5cdc-44b0-a970-a8cef53a8bd2.jpg)
 
