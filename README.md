@@ -50,7 +50,7 @@ I absolutely love to dive into complex coding challenges and finding efficient a
 
 # Projects
 
-**Microservices Architecture for Healthcare Platform** - I worked on a project to migrate a monolithic healthcare platform to a microservices architecture. I developed several microservices using Spring Cloud and deployed them on AWS using Docker containers. I also implemented a messaging system using RabbitMQ to handle communication between microservices and ensure reliable data transfer.
+<u> **Microservices Architecture for Healthcare Platform** </u> - I worked on a project to migrate a monolithic healthcare platform to a microservices architecture. I developed several microservices using Spring Cloud and deployed them on AWS using Docker containers. I also implemented a messaging system using RabbitMQ to handle communication between microservices and ensure reliable data transfer.
 
 **Data Analytics Platform** - I built a data analytics platform that collected, processed, and analyzed data from multiple sources. I utilized Apache Spark for data processing and Apache Cassandra for data storage. I also implemented a RESTful API for data retrieval and visualization using AngularJS.
 
