@@ -28,8 +28,8 @@ I have experience in the following technologies:
 - Putty ![Putty](https://img.shields.io/badge/Putty-0.73-0077C5?style=flat&logo=putty)
 - WinSCP ![WinSCP](https://img.shields.io/badge/WinSCP-5.17.7-1C1C1E?style=flat&logo=winscp)
 
-[![Visitor Count](https://profile-counter.glitch.me/prashantdhruw/count.svg)](https://github.com/prashantdhruw)
 
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prashantdhruw&show_icons=true&theme=default)](https://github.com/prashantdhruw)
 
 
 
