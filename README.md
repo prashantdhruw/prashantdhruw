@@ -1,16 +1,9 @@
- 🏫 I'm Prashant Dhruw, have pursued B.Tech(ECE) from @RGPV Bhopal
-🔭 I’m currently working as a BackEnd Developer
-😐 I have a love/hate relationship with Programming
-
-![Sreenshot](https://user-images.githubusercontent.com/38435661/175811577-72bb3654-5cdc-44b0-a970-a8cef53a8bd2.jpg)
-
-💬 Ask me about anything, I am happy to help
-😄 Pronouns: Coder, Leader and Kind Hearted
-💡 Occasionaly I do participate in Hackathons
-
 # Prashant Dhruw
 
-Hi, I'm a software developer with a passion for creating innovative solutions. I am currently working as Conaultant for Reliance Industries
+Hi, I'm a software developer with a passion for creating innovative solutions. I am currently working as Conaultant for Reliance Industries.
+
+
+![Sreenshot](https://user-images.githubusercontent.com/38435661/175811577-72bb3654-5cdc-44b0-a970-a8cef53a8bd2.jpg)
 
 # Java Backend Developer
 
@@ -53,6 +46,7 @@ Scalable design patterns
 Front-end technologies (HTML, CSS, JavaScript, AngularJS)
 
 Performance optimization and profiling techniques.
+
 
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prashantdhruw&show_icons=true&theme=default)](https://github.com/prashantdhruw)
