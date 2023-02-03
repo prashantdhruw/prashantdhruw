@@ -2,7 +2,7 @@
 
 ![Prashant_Dhruw_guy_coding_anime_afc9fd86-0ad6-48a4-82e5-ae01097fd259](https://user-images.githubusercontent.com/38435661/216602812-f1443f9b-3ab9-43e6-9760-51be35a72d6c.png)
 
-Hi, I'm a software developer with a passion for creating innovative solutions. I am currently working as Conaultant for Reliance Industries.
+*Hi, I'm a software developer with a passion for creating innovative solutions. I am currently working as* **Consultant for Reliance Industries Limited**.
 
 I absolutely love to dive into complex coding challenges and finding efficient and elegant solutions. There's just something so satisfying about taking a problem that seems insurmountable and breaking it down into smaller, manageable pieces. Once I have a better understanding of what needs to be done, I can start putting the pieces together and constructing a solution that is not only functional, but also scalable and maintainable. I find it incredibly rewarding to work through each step of the process, from initial planning to debugging and testing, and finally seeing my solution come to life.
 
